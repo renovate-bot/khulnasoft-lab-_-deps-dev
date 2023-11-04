@@ -6,7 +6,7 @@
   "private": true,
   "devDependencies": {
     "@nrwl/nx-cloud": "latest",
-    "nx": "15.0.10",
+    "nx": "15.9.7",
     "prettier": "^3.0.0",
     "typescript": "^5.0.0"
   },
